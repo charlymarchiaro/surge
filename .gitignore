@@ -110,3 +110,7 @@ Testing/
 installer-tmp/
 .junie/
 .claude/
+
+# External util folders
+.reaper/
+.doxygen/
